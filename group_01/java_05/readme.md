@@ -42,9 +42,9 @@ Aplikacioni duhet te shfaqe ne ekran:
 
 ### Kerkesa shtese
 
-- Aplikacioni duhet te funksionoje permes konsoles duke perdorur `Scanner`.
+- Aplikacioni duhet te funksionoje permes consoles duke perdorur `Scanner`.
 - Te perdoren konceptet e Programimit te Orientuar ne Objekte (POO).
 - Te mos pranohen nota jashte intervalit 5–10.
 - Mesatarja te llogaritet vetem nga notat qe jane vendosur (duke mos e llogaritur notat me vleren 5).
-- Pas cdo operacioni, menuja duhet te shfaqet perseri.
+- Pas cdo operacioni, menu-ja duhet te shfaqet perseri.
 - Aplikacioni duhet te vazhdoje ekzekutimin derisa perdoruesi te zgjedhe opsionin `0`.
