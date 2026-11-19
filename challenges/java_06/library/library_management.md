@@ -12,12 +12,10 @@ Aplikacioni juaj duhet te mundesoje:
 
 1. Regjistrimin dhe menaxhimin e anetareve te bibliotekes.
 2. Shtimin dhe menaxhimin e librave.
-3. Kerkimin e librave sipas kritereve te pershtatshme qe i percaktoni ju.
-4. Huazimin dhe kthimin e librave.
-5. Ndalimin e huazimit te nje libri qe aktualisht eshte i huazuar.
-6. Shfaqjen e historikut te huazimeve per nje anetar.
-7. Shfaqjen e librave te disponueshem dhe atyre te huazuar.
-8. Mbeshtetjen e te pakten dy kategorive te materialeve te bibliotekes, me karakteristika ose sjellje te ndryshme.
+3. Huazimin dhe kthimin e librave.
+4. Ndalimin e huazimit te nje libri qe aktualisht eshte i huazuar.
+5. Shfaqjen e historikut te huazimeve per nje anetar.
+6. Shfaqjen e librave te disponueshem dhe atyre te huazuar.
 
 ## Konceptet qe duhet t’i perdorni
 
