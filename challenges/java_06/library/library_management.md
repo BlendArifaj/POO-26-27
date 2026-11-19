@@ -46,10 +46,4 @@ Aplikacioni duhet te punoje, te kete nje meny ku mund te beni disa veprime radha
 
 ## Cka duhet te dorezoni (email: blend.arifaj@uni-pr.edu)
 
-Dorezoni kodin burimor Java dhe nje `README.md` te shkurter ku shpjegoni:
-
-1. Klasat kryesore dhe pergjegjesite e tyre.
-2. Marredhenien e trashegimise dhe arsyen e saj.
-3. Zgjedhjen e koleksioneve.
-4. Menyren e ekzekutimit.
-5. Nje vendim projektues qe e keni marre vete dhe pse.
+Dorezoni kodin burimor Java
