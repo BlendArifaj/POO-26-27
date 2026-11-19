@@ -44,6 +44,6 @@ Nuk kerkohet perdorimi artificial i nje koncepti vetem per ta perfshire ne kod. 
 
 Aplikacioni duhet te punoje, te kete nje meny ku mund te beni disa veprime radhazi dhe te mos ndalet kur perdoruesi jep nje input gabim. Te dhenat mjafton te ruhen gjate ekzekutimit. Nuk ju duhet databaze apo GUI.
 
-## Cka duhet te dorezoni (email: blend.arifaj@uni-pr.edu, subject: Dorezimi Detyra 02)
+## Cka duhet te dorezoni (email: blend.arifaj@uni-pr.edu, subject: Dorezimi Detyra 02 / 19.11.2026 16:00)
 
 Dorezoni kodin burimor Java
